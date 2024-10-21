@@ -1,0 +1,19 @@
+{
+  "Tracks": [
+    {
+      "Name": "bahrain",
+      "corners": [1, 4, 11],
+      "overtake": [3, 6, 13]
+    },
+    {
+      "Name": "saudi",
+      "corners": [1],
+      "overtake": [4]
+    },
+    {
+      "Name": "australia",
+      "corners": [1, 3],
+      "overtake": [2, 4]
+    }
+  ]
+}
